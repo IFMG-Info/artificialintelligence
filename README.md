@@ -5,6 +5,21 @@
 <ol>
 <li>
   <ul>
+    <li> <b>Aluno</b>: Deylon Carlo Fidelis Couto</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Colaboradora</b>: Lillia dos Santos Barsante</li>
+    <li> <b>Título do trabalho</b>: Otimização de Funções Multimodais via Técnica de Inteligência Computacional Baseada em Colônia de Vaga-lumes</li>
+    <li> <p align="Justify"><b>Resumo</b>: Problemas de otimização são comumente encontrados em aplicações práticas de grande relevância econômica e/ou social, como, quando se deseja determinar o maior nível de produção de uma indústria, a quantidade mínima de leitos de um hospital, entre outros problemas na área de administração, economia e engenharias. Muitos desses problemas apresentam um grande número de variáveis e/ou restrições, tornando inviável a solução por meio de métodos exatos. Desta forma, heurísticas computacionais vêm ganhando espaço no tratamento destes problemas. Neste artigo aplicamos o algoritmo de colônia de vaga-lume, proposto na literatura, para otimizar clássicas funções N-dimensionais multimodais. Apresentamos um benchmark entre as funções teste, incluindo novas funções que não foram encontradas em trabalhos da literatura, de acordo com pesquisa bibliográfica realizada, a fim de analisar o desempenho do algoritmo na otimização destas classes de funções, possibilitando concluir a respeito da influência dos principais parâmetros do método computacional nos resultados obtidos. Os resultados mostram que o algoritmo consegue encontrar os ótimos locais em tempo computacional razoável, além de superar o resultado da literatura para algumas funções.</p></li>
+    <li> <b>Artigo no git</b>:  https://github.com/IFMG-Info/artificialintelligence/blob/main/Otimizacao_Funcoes_Multimodais_Colonia_Vagalumes_Deylon_CILAMCE2015.pdf</li>
+    <li> <b>Veículo de divulgação</b>: XXXVI Iberian Latin American Congress on Computational Methods in Engineering 2015</li>
+    <li> <b>Citação</b>: COUTO, DEYLON CARLO FIDELIS ; BARSANTE, LILLIA DOS SANTOS ; SILVA, Carlos Alexandre . Otimização de funções multimodais via técnica de inteligência computacional baseada em Colônia de Vaga-lumes. In: XXXVI Iberian Latin American Congress on Computational Methods in Engineering, 2015, Rio de Janeiro. v. 1. </li>
+    <li> <b>Link</b>: http://www.swge.inf.br/proceedings/paper/?P=CILAMCE2015-0506 ou https://www.researchgate.net/publication/315029841_Otimizacao_de_funcoes_multimodais_via_tecnica_de_inteligencia_computacional_baseada_em_Colonia_de_Vaga-lumes#fullTextFileContent </li>
+    <li> <b>DOI</b>: https://doi.org/10.20906/CPS/CILAMCE2015-0506 </li>
+  </ul>
+</li>
+  
+<li>
+  <ul>
     <li> <b>Aluna</b>: Laura Esther Martins Santos</li>
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Coorientadora</b>: Lillia dos Santos Barsante</li>
