@@ -1,2 +1,4 @@
-# artificialintelligence
-Trabalhos na área de Inteligência Artificial produzidos por alunos do BSI/IFMG-Sabará em formato de artigo completo publicados em congressos nacional/internacional ou periódicos com qualis, ou defendidos como TCC, ou originados por projeto de pesquisa.
+# Inteligência Artificial
+
+<p align="Justify">Trabalhos na área de <b>Inteligência Artificial</b> produzidos por alunos do BSI/IFMG-Sabará em formato de artigo completo publicados em congressos nacional/internacional ou periódicos com qualis, ou defendidos como TCC, ou originados por projeto de pesquisa.</p>
+
