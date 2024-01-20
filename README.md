@@ -5,6 +5,21 @@
 <ol>
 <li>
   <ul>
+    <li> <b>Aluna</b>: Laura Esther Martins Santos</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientadora</b>: Lillia dos Santos Barsante</li>
+    <li> <b>Título do trabalho</b>: Inteligência Computacional Aplicada ao Controle do Aedes Aegypti</li>
+    <li> <p align="Justify"><b>Resumo</b>: O vetor Aedes aegypti é o principal responsável pela disseminação de diversas arboviroses como a dengue, a febre chikungunya e o zika vírus, cuja gravidade é variável. Atualmente não existe um método eficaz para erradicação destas arboviroses e controle deste vetor. Desta forma, buscamos minimizar o custo derivado da ação do controle químico e biológico em seu ciclo de vida, utilizamos o algoritmo de vaga-lume, uma técnica de inteligência computacional baseada em inteligência por enxames. Para verificar a eficiência de desempenho deste algoritmo analisamos variações de seus principais parâmetros: atratividade entre os vagalumes, absorção da luz pelo meio e aleatoriedade do movimento dos insetos. Os resultados encontrados pelo algoritmo de vaga-lume foram melhores do que os da literatura, o que em devidas proporções podem causar uma significativa redução de gastos no controle do vetor.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/computationalmathematics/blob/main/InteligenciaComputacional_AedesAegypti_Laura_RIPI2017.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Revista Interdisciplinar De Pesquisa Em Engenharia (RIPE) / XXXVII Iberian Latin American Congress on Computational Methods in Engineering 2016</li>
+    <li> <b>Citação</b>: Santos, L. E. M., Silva, C. A., Barsante, L. S., & Fernandes, J. L. A. (2017). Inteligência Computacional Aplicada ao Controle do Aedes Aegypti. Revista Interdisciplinar De Pesquisa Em Engenharia, 2(9), 196–209. https://doi.org/10.26512/ripe.v2i9.15043 </li>
+    <li> <b>Link</b>: https://periodicos.unb.br/index.php/ripe/article/view/15043 </li>
+    <li> <b>DOI</b>: https://doi.org/10.26512/ripe.v2i9.15043 </li>
+  </ul>
+</li>
+  
+<li>
+  <ul>
     <li> <b>Aluno</b>: Gustavo Santos Rodrigues</li>
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Título do trabalho</b>: Uma Abordagem a DeepFake via Algoritmos de Aprendizagem Profunda</li>
