@@ -61,4 +61,21 @@
     <li> <b>DOI</b>: https://doi.org/10.36558/rsc.v13i3.8501 </li>
   </ul>
 </li>
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Marco Antônio do Nascimento</li>
+    <li> <b>Curso</b>: Especialização em Inteligência Artificial (IFMG-Ouro Preto)</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Carlos Alberto Severiano Júnior</li>
+    <li> <b>Título do trabalho</b>: Previsão de Ações Brasileiras utilizando Redes Neurais LSTM e modelo GARCH</li>
+    <li> <p align="Justify"><b>Resumo</b>: O propósito deste trabalho é estimar o comportamento dos preços diários das principais ações do mercado de ações brasileiro no período entre 2000 e 2024, a partir de dois modelos: um modelo de Redes Neurais LSTM e um modelo Híbrido onde se insere a estimação de volatilidade GARCH junto ao modelo LSTM, denominado GARCH-LSTM. Como resultados, pode-se afirmar que o comportamento dos preços das séries financeiras examinadas foi adequadamente estimado tanto pelo modelo LSTM quanto pelo modelo LSTM/GARCH. No que tange a escolha do modelo ideal, verificou-se que a maior parte das ações analisadas, apresentaram melhores resultados de estimação junto ao modelo GARCH-LSTM indicando que ao se inserir a estimação de volatilidade no modelo, há uma melhora na previsão do comportamento dos preços de ações.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/artificialintelligence/blob/main/Previsao_Acao_Brasileira_LSTM_GARCH_MarcAntonio_2024.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório Institucional </li>
+    <li> <b>Citação</b>: NASCIMENTO, M. A.; SILVA, C. A.; SEVERIANO JR; C. A. Previsão de Ações Brasileiras utilizando Redes Neurais LSTM e modelo GARCH. Monografia de Especialização em Inteligência Artificial, IFMG-Ouro Preto. Ouro Preto, MG, 2024. </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/server/api/core/bitstreams/24f4cb5b-dcfc-47aa-ab36-20ea6a780d63/content </li>
+  </ul>
+</li>
+
+
 <ol>
