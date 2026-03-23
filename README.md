@@ -11,7 +11,7 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 | 2023 | Uma Abordagem a DeepFake via Algoritmos de Aprendizagem Profunda | Gustavo Santos Rodrigues | Artigo completo | ENCOMPIF 2023 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Uma_Abordagem_Deepfake_Aprendizagem_Profunda_GustavoSantos_ENCOMPIF2023.pdf) |
 | 2023 | Deepfakes na Era da Desinformação: Uma Análise Comparativa de Algoritmos de Aprendizado Profundo | Gustavo Santos Rodrigues | Artigo em periódico | Revista de Sistemas e Computação | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Deepfakes_Algoritmos_GustavoSantos_RSC2023.pdf) |
 | 2024 | Previsão de Ações Brasileiras utilizando Redes Neurais LSTM e modelo GARCH | Marco Antônio do Nascimento | Monografia de Especialização | Repositório Institucional IFMG | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Previsao_Acao_Brasileira_LSTM_GARCH_MarcAntonio_2024.pdf) |
-| 2025 | Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas | Victor F. Magalhães | Artigo completo | SBAI 2025 | [PDF](COLOCAR_LINK_DO_PDF_AQUI) |
+| 2025 | Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas | Victor F. Magalhães | Artigo completo | SBAI 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Aplicacao_Algoritmos_ML_Manutencao_Preditiva_VictorMagalhaes_SBAI2025.pdf) |
 | 2025 | Comparative Analysis between Genetic Programming and Machine Learning Algorithms in Forecasting Financial Trends | Marcos Vinícius Rosa Pedroza | Artigo completo | ENIAC 2025 | [PDF](COLOCAR_LINK_DO_PDF_AQUI) |
 | 2025 | Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte | Guilherme Luis Soares Santos | Artigo completo | CBIC 2025 | [PDF](COLOCAR_LINK_DO_PDF_AQUI) |
 
@@ -100,16 +100,16 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 ### 6. Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas
 
 - **Autor(a):** Victor F. Magalhães
-- **Coautor(es):** Arthur F. Foureaux; Bruno N. Gomes; Daniel B. F. Conrado; Diego O. Miranda
+- **Coautor(es):** Arthur F. Foureaux; Carlos Alexandre Silva; Daniel B. F. Conrado; Bruno N. Gomes; Diego O. Miranda
 - **Orientador(a):** Carlos Alexandre Silva
 - **Ano:** 2025
 - **Tipo:** Artigo completo
-- **Resumo:** Trabalho voltado à aplicação de algoritmos de aprendizado de máquina no contexto de manutenção preditiva, com foco na análise de técnicas de IA para predição de falhas em sistemas e equipamentos.
-- **PDF no repositório:** [Acessar PDF](COLOCAR_LINK_DO_PDF_AQUI)
+- **Resumo:** O trabalho analisa a aplicação de algoritmos de aprendizado de máquina no contexto da manutenção preditiva, comparando três modelos para predição de falhas em equipamentos. A avaliação foi realizada com dados sintéticos baseados em cenários industriais reais. Os resultados apontaram forte potencial da Floresta Randômica, que alcançou acurácia de 0,99 e superou os demais algoritmos em todas as métricas consideradas, mostrando-se uma alternativa promissora para ambientes industriais com dados limitados.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Aplicacao_Algoritmos_ML_Manutencao_Preditiva_VictorMagalhaes_SBAI2025.pdf)
 - **Veículo de divulgação:** XVII Simpósio Brasileiro de Automação Inteligente (SBAI 2025)
-- **Citação:** MAGALHAES, V. F.; FOUREAUX, A. F.; SILVA, C. A.; GOMES, B. N.; CONRADO, D. B. F.; MIRANDA, D. O. Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas. In: SBAI 2025, 2025, São João del-Rei. XVII Simpósio Brasileiro de Automação Inteligente. Campinas/SP: Sociedade Brasileira de Automática, 2025. v. 1. p. 1-6.
-- **Link externo:** COLOCAR_LINK_EXTERNO_AQUI
-- **DOI:** COLOCAR_DOI_AQUI
+- **Citação:** MAGALHÃES, Victor F.; FOUREAUX, Arthur F.; SILVA, Carlos A.; CONRADO, Daniel B. F.; GOMES, Bruno N.; MIRANDA, Diego O. Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas. In: XVII Simpósio Brasileiro de Automação Inteligente, 2025.
+- **Link externo:** https://www.sba.org.br/open_journal_systems/index.php/sbai/article/view/5580/4926
+- **DOI:** https://doi.org/10.20906/sbai.v1i1
 
 ---
 
