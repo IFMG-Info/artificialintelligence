@@ -11,6 +11,9 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 | 2023 | Uma Abordagem a DeepFake via Algoritmos de Aprendizagem Profunda | Gustavo Santos Rodrigues | Artigo completo | ENCOMPIF 2023 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Uma_Abordagem_Deepfake_Aprendizagem_Profunda_GustavoSantos_ENCOMPIF2023.pdf) |
 | 2023 | Deepfakes na Era da Desinformação: Uma Análise Comparativa de Algoritmos de Aprendizado Profundo | Gustavo Santos Rodrigues | Artigo em periódico | Revista de Sistemas e Computação | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Deepfakes_Algoritmos_GustavoSantos_RSC2023.pdf) |
 | 2024 | Previsão de Ações Brasileiras utilizando Redes Neurais LSTM e modelo GARCH | Marco Antônio do Nascimento | Monografia de Especialização | Repositório Institucional IFMG | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Previsao_Acao_Brasileira_LSTM_GARCH_MarcAntonio_2024.pdf) |
+| 2025 | Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas | Victor F. Magalhães | Artigo completo | SBAI 2025 | [PDF](COLOCAR_LINK_DO_PDF_AQUI) |
+| 2025 | Comparative Analysis between Genetic Programming and Machine Learning Algorithms in Forecasting Financial Trends | Marcos Vinícius Rosa Pedroza | Artigo completo | ENIAC 2025 | [PDF](COLOCAR_LINK_DO_PDF_AQUI) |
+| 2025 | Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte | Guilherme Luis Soares Santos | Artigo completo | CBIC 2025 | [PDF](COLOCAR_LINK_DO_PDF_AQUI) |
 
 ## Detalhes dos trabalhos
 
@@ -91,6 +94,53 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 - **Veículo de divulgação:** Repositório Institucional do IFMG
 - **Citação:** NASCIMENTO, Marco Antônio do; SILVA, Carlos Alexandre; SEVERIANO JÚNIOR, Carlos Alberto. Previsão de Ações Brasileiras utilizando Redes Neurais LSTM e modelo GARCH. Monografia de Especialização em Inteligência Artificial, IFMG – Campus Ouro Preto, Ouro Preto, MG, 2024.
 - **Link externo:** https://repositorio.ifmg.edu.br/server/api/core/bitstreams/24f4cb5b-dcfc-47aa-ab36-20ea6a780d63/content
+
+---
+
+### 6. Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas
+
+- **Autor(a):** Victor F. Magalhães
+- **Coautor(es):** Arthur F. Foureaux; Bruno N. Gomes; Daniel B. F. Conrado; Diego O. Miranda
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** Trabalho voltado à aplicação de algoritmos de aprendizado de máquina no contexto de manutenção preditiva, com foco na análise de técnicas de IA para predição de falhas em sistemas e equipamentos.
+- **PDF no repositório:** [Acessar PDF](COLOCAR_LINK_DO_PDF_AQUI)
+- **Veículo de divulgação:** XVII Simpósio Brasileiro de Automação Inteligente (SBAI 2025)
+- **Citação:** MAGALHAES, V. F.; FOUREAUX, A. F.; SILVA, C. A.; GOMES, B. N.; CONRADO, D. B. F.; MIRANDA, D. O. Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas. In: SBAI 2025, 2025, São João del-Rei. XVII Simpósio Brasileiro de Automação Inteligente. Campinas/SP: Sociedade Brasileira de Automática, 2025. v. 1. p. 1-6.
+- **Link externo:** COLOCAR_LINK_EXTERNO_AQUI
+- **DOI:** COLOCAR_DOI_AQUI
+
+---
+
+### 7. Comparative Analysis between Genetic Programming and Machine Learning Algorithms in Forecasting Financial Trends
+
+- **Autor(a):** Marcos Vinícius Rosa Pedroza
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho apresenta uma análise comparativa entre Programação Genética e algoritmos de aprendizado de máquina aplicados à previsão de tendências financeiras, discutindo o desempenho das abordagens em um problema de séries temporais e apoio à decisão no mercado financeiro.
+- **PDF no repositório:** [Acessar PDF](COLOCAR_LINK_DO_PDF_AQUI)
+- **Veículo de divulgação:** ENIAC 2025 – Encontro Nacional de Inteligência Artificial e Computacional
+- **Citação:** PEDROZA, M. V. R.; SILVA, C. A. Comparative Analysis between Genetic Programming and Machine Learning Algorithms in Forecasting Financial Trends. In: ENIAC – Encontro Nacional de Inteligência Artificial e Computacional, 2025, Fortaleza. Anais do ENIAC 2025. Porto Alegre: Sociedade Brasileira de Computação (SBC), 2025. v. 1. p. 1833-1843.
+- **Link externo:** COLOCAR_LINK_EXTERNO_AQUI
+- **DOI:** COLOCAR_DOI_AQUI
+
+---
+
+### 8. Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte
+
+- **Autor(a):** Guilherme Luis Soares Santos
+- **Coautor(es):** Bruno N. Gomes
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho propõe uma abordagem híbrida para o planejamento de eletropostos em Belo Horizonte, combinando previsão de demanda e otimização evolucionária para apoiar a definição de localizações mais adequadas para a infraestrutura de recarga de veículos elétricos.
+- **PDF no repositório:** [Acessar PDF](COLOCAR_LINK_DO_PDF_AQUI)
+- **Veículo de divulgação:** XVII Congresso Brasileiro de Inteligência Computacional (CBIC 2025)
+- **Citação:** SANTOS, G. L. S.; GOMES, B. N.; SILVA, C. A. Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte. In: Congresso Brasileiro de Inteligência Computacional, 2025, Belo Horizonte. Anais do XVII Congresso Brasileiro de Inteligência Computacional. Curitiba: Sociedade Brasileira de Inteligência Computacional, 2025. v. 1. p. '-10.
+- **Link externo:** COLOCAR_LINK_EXTERNO_AQUI
+- **DOI:** COLOCAR_DOI_AQUI
 
 ## Organização
 
