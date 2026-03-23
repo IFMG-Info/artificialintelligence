@@ -1,7 +1,7 @@
 # Inteligência Artificial
 
 <p align="justify">
-Este repositório reúne produções acadêmicas na área de <b>Inteligência Artificial</b> desenvolvidas por estudantes vinculados ao IFMG – Campus Sabará e a trabalhos orientados pelo Prof. Carlos Alexandre Silva. Estão incluídos artigos publicados em congressos e periódicos, trabalhos de conclusão de curso, monografias e resultados de projetos de pesquisa.
+Este repositório reúne produções acadêmicas na área de <b>Inteligência Artificial</b> desenvolvidas por estudantes vinculados ao IFMG – Campus Sabará e a trabalhos orientados/coorientados pelo Prof. Carlos Alexandre Silva. Estão incluídos artigos publicados em congressos e periódicos, trabalhos de conclusão de curso, monografias e resultados de projetos de pesquisa.
 </p>
 
 ## Trabalhos cadastrados
