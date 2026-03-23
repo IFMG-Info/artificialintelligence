@@ -14,6 +14,7 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 | 2025 | Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas | Victor F. Magalhães | Artigo completo | SBAI 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Aplicacao_Algoritmos_ML_Manutencao_Preditiva_VictorMagalhaes_SBAI2025.pdf) |
 | 2025 | Comparative Analysis between Genetic Programming and Machine Learning Algorithms in Forecasting Financial Trends | Marcos Vinícius Rosa Pedroza | Artigo completo | ENIAC 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Comparative_Analysis_GP_ML_Financial_Trends_MarcosPedroza_ENIAC2025.pdf) |
 | 2025 | Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte | Guilherme Luis Soares Santos | Artigo completo | CBIC 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Planejamento_Otimizado_Eletropostos_GuilhermeSantos_CBIC2025.pdf) |
+| 2025 | Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo | Daniel de Almeida | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Analise_Comparativa_NRainhas_PasseioCavalo_DanielAlmeida_TCC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -140,6 +141,22 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 - **Citação:** SANTOS, G. L. S.; SILVA, C. A.; GOMES, B. N. Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte. In: XVII Congresso Brasileiro de Inteligência Computacional, 2025, Belo Horizonte. Anais do XVII Congresso Brasileiro de Inteligência Computacional, 2025.
 - **Link externo:** https://sbia.org.br/eventos/cbic_2025/cbic2025-1191292/
 - **DOI:** https://doi.org/10.21528/CBIC2025-1191292
+
+---
+
+### 9. Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo
+
+- **Autor(a):** Daniel de Almeida
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Trabalho de Conclusão de Curso
+- **Resumo:** O trabalho realiza uma análise comparativa entre diferentes técnicas de projeto de algoritmos aplicadas aos problemas combinatórios das N-Rainhas e do Passeio do Cavalo. Foram investigadas abordagens como Backtracking, Algoritmos Genéticos e a heurística de Warnsdorff, com foco no desempenho computacional, na qualidade das soluções encontradas e nas características de cada método diante de diferentes tamanhos de instância. Os resultados contribuem para a compreensão prática do comportamento dessas estratégias em problemas clássicos da computação combinatória e também dialogam com Inteligência Artificial pelo uso de algoritmos genéticos e heurísticas.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Analise_Comparativa_NRainhas_PasseioCavalo_DanielAlmeida_TCC2025.pdf)
+- **Veículo de divulgação:** Repositório IFMG
+- **Citação:** ALMEIDA, Daniel de; SILVA, Carlos Alexandre. Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2025.
+- **Link externo:** https://repositorio.ifmg.edu.br/items/b78ea37c-149f-4dd9-832c-8713e414f065
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Matemática Computacional.
 
 ## Organização
 
