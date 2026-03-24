@@ -15,6 +15,8 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 | 2025 | Comparative Analysis between Genetic Programming and Machine Learning Algorithms in Forecasting Financial Trends | Marcos Vinícius Rosa Pedroza | Artigo completo | ENIAC 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Comparative_Analysis_GP_ML_Financial_Trends_MarcosPedroza_ENIAC2025.pdf) |
 | 2025 | Planejamento Otimizado de Eletropostos: Uma Abordagem Híbrida com Previsão de Demanda e Otimização Evolucionária para Belo Horizonte | Guilherme Luis Soares Santos | Artigo completo | CBIC 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Planejamento_Otimizado_Eletropostos_GuilhermeSantos_CBIC2025.pdf) |
 | 2025 | Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo | Daniel de Almeida | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Analise_Comparativa_NRainhas_PasseioCavalo_DanielAlmeida_TCC2025.pdf) |
+| 2025 | Análise Comparativa de Algoritmos de Machine Learning para a Projeção de Áreas em Crescimento no Setor de Tecnologia da Informação no Brasil | Isabelle Yasmin de Araújo Moreira | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Analise_Comparativa_ML_Areas_Crescimento_TI_IsabelleYasmin_CONIC2025.pdf) |
+| 2025 | Previsão da Demanda Regional por Vagas de TI no Brasil: Uma Análise Comparativa de Modelos de Aprendizado de Máquina | Danilo Batista Lima | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Previsao_Demanda_Regional_Vagas_TI_DaniloBatista_CONIC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -157,6 +159,40 @@ Este repositório reúne produções acadêmicas na área de Inteligência Artif
 - **Link externo:** https://repositorio.ifmg.edu.br/items/b78ea37c-149f-4dd9-832c-8713e414f065
 - **DOI:** Não informado
 - **Observação:** O trabalho também está catalogado no repositório de Matemática Computacional.
+
+---
+
+### 10. Análise Comparativa de Algoritmos de Machine Learning para a Projeção de Áreas em Crescimento no Setor de Tecnologia da Informação no Brasil
+
+- **Autor(a):** Isabelle Yasmin de Araújo Moreira
+- **Orientador(a):** Carlos Alexandre Silva
+- **Colaborador(a):** Danilo Batista Lima
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho analisa vagas de TI no Brasil com foco na projeção de áreas em crescimento no setor, utilizando dados coletados por web scraping no LinkedIn. A metodologia combina clusterização com K-means e modelos preditivos de machine learning, como MLP, LSTM e XGBoost. Os resultados identificam áreas com maior expansão no mercado e apontam destaque para o XGBoost na tarefa de previsão.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Analise_Comparativa_ML_Areas_Crescimento_TI_IsabelleYasmin_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** MOREIRA, Isabelle Yasmin de Araújo; SILVA, Carlos Alexandre; LIMA, Danilo Batista. Análise Comparativa de Algoritmos de Machine Learning para a Projeção de Áreas em Crescimento no Setor de Tecnologia da Informação no Brasil. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000013789.pdf?1774312386
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Ciência de Dados.
+
+---
+
+### 11. Previsão da Demanda Regional por Vagas de TI no Brasil: Uma Análise Comparativa de Modelos de Aprendizado de Máquina
+
+- **Autor(a):** Danilo Batista Lima
+- **Orientador(a):** Carlos Alexandre Silva
+- **Colaborador(a):** Isabelle Yasmin de Araújo Moreira
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** A pesquisa analisa a distribuição regional de vagas de Tecnologia da Informação no Brasil com base em dados coletados diariamente via web scraping no LinkedIn. Foram comparados três modelos preditivos — MLP, SVR e LSTM — para estimar a abertura de vagas por região. O modelo MLP apresentou o melhor equilíbrio entre erro médio e capacidade de prever tendências, com destaque para as regiões Sudeste, Sul e para a modalidade remota.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/artificialintelligence/blob/main/Previsao_Demanda_Regional_Vagas_TI_DaniloBatista_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** LIMA, Danilo Batista; SILVA, Carlos Alexandre; MOREIRA, Isabelle Yasmin de Araújo. Previsão da Demanda Regional por Vagas de TI no Brasil: Uma Análise Comparativa de Modelos de Aprendizado de Máquina. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000013808.pdf?1774312429
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Ciência de Dados.
 
 ## Organização
 
